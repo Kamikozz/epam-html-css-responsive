@@ -8,3 +8,9 @@
 Требования к каждому варианту:
 1. Виджет должен адекватно выглядеть на смартфонах, планшетах, ноутбуках и больших экранах
 2. Виджет должен выглядеть адекватно в разных браузерах (до ie11)
+
+# Results
+## Demos, deploy:
+- [float](https://kamikozz.github.io/epam-html-css-responsive/Alexey%20Shevchenko/float/)
+- [flexbox](https://kamikozz.github.io/epam-html-css-responsive/Alexey%20Shevchenko/flexbox/)
+- [grid](https://kamikozz.github.io/epam-html-css-responsive/Alexey%20Shevchenko/grid/)
